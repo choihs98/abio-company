@@ -1,0 +1,22 @@
+{
+  "name": "아비오컴퍼니",
+  "short_name": "아비오",
+  "description": "아비오컴퍼니 쇼핑몰",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2F6F4E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/logo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
